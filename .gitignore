@@ -13,6 +13,7 @@ venv/
 .venv/
 
 # IDE
+<<<<<<< HEAD
 .vscode/
 # Dataset 
 dataset/
@@ -32,4 +33,6 @@ venv/
 .venv/ 
  
 # IDE 
+=======
+>>>>>>> origin/main
 .vscode/
