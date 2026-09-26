@@ -1,0 +1,35 @@
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+# Dataset 
+dataset/
+
+# Generated processed data
+code/processed/
+
+# Python cache 
+__pycache__/ 
+*.pyc 
+ 
+# macOS files 
+.DS_Store 
+ 
+# Virtual environment 
+venv/ 
+.venv/ 
+ 
+# IDE 
+.vscode/
